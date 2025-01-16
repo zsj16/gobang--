@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\2_grade documents\C\gobang_work of zhusijia\源.cpp(129,12): warning C4101: “j”: 未引用的局部变量
+E:\2_grade documents\C\gobang_work of zhusijia\源.cpp(129,9): warning C4101: “i”: 未引用的局部变量
+  gobang_work of zhusijia.vcxproj -> E:\2_grade documents\C\gobang_work of zhusijia\x64\Debug\gobang_work of zhusijia.exe
